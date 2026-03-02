@@ -1,0 +1,352 @@
+
+Time: 2026-03-02 22:54:07.646191
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 22:55:01.012508
+Source: Kenya
+Destination: UnknownCountry
+Risk Score: 100
+Status: NON-COMPLIANT
+Issues: ['Data not encrypted', 'No patient consent', 'Country not approved']
+------------------------
+
+Time: 2026-03-02 22:57:35.429210
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:07:49.960187
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:09:54.164512
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:12:15.816867
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:12:17.819462
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:12:22.147130
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:13:13.158730
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:16:43.364383
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:17:05.567074
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:17:34.352277
+Source: Kenya
+Destination: UnknownCountry
+Risk Score: 100
+Status: NON-COMPLIANT
+Issues: ['Data not encrypted', 'No patient consent', 'Country not approved']
+------------------------
+
+Time: 2026-03-02 23:34:07.784418
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:34:32.077519
+Source: Kenya
+Destination: UnknownCountry
+Risk Score: 100
+Status: NON-COMPLIANT
+Issues: ['Data not encrypted', 'No patient consent', 'Country not approved']
+------------------------
+
+Time: 2026-03-02 23:34:37.317778
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:34:47.628365
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:34:52.774165
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:35:03.334055
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:35:09.314210
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:35:15.147916
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:17.346351
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:24.855871
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:26.781972
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:37.260697
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:38.526356
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:39.643274
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:42.112053
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:36:47.697764
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:38:52.484349
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:38:55.626280
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:38:57.710360
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:39:00.394738
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:39:01.942371
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:39:13.470337
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:40:56.868099
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:41:02.930443
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-02 23:41:04.192119
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-03 00:17:28.507726
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-03 00:18:46.228147
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-03 00:21:42.623047
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-03 00:28:44.248153
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-03 00:30:43.632554
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-03 00:31:25.547788
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------
+
+Time: 2026-03-03 00:35:16.077807
+Source: Kenya
+Destination: Germany
+Risk Score: 0
+Status: COMPLIANT
+Issues: []
+------------------------

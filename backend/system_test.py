@@ -1,0 +1,1 @@
+print("CyberLab System Initialized")

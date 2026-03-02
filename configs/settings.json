@@ -1,0 +1,7 @@
+{
+    "project": "CyberLab",
+    "version": "1.0",
+    "author": "Michael Meyo",
+    "environment": "cyberlab",
+    "logging": true
+}

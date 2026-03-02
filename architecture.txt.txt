@@ -1,0 +1,17 @@
+Client (Hospital)
+        ↓
+API Gateway
+        ↓
+Authentication Layer
+        ↓
+Integrity Verification
+        ↓
+Attack Detection Engine
+        ↓
+ML Anomaly Detection
+        ↓
+Compliance Risk Engine
+        ↓
+Security Logs
+        ↓
+Monitoring Dashboard
